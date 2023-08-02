@@ -1,0 +1,17 @@
+.About {
+       display:flex;
+       justify-content: center;
+       align-items: center;
+       background-image: url(https://img.freepik.com/free-photo/tropical-rainforest-beauty-nature-sunrise-generated-by-ai_188544-35483.jpg?size=626&ext=jpg&ga=GA1.2.1888065705.1678431942&semt=sph);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+
+}
+.About2{
+    background-image: url(https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=600);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+
+}

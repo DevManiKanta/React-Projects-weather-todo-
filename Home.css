@@ -1,0 +1,34 @@
+body{ 
+    align-items:center;
+    justify-content:center;
+    background-image:url(https://img.freepik.com/free-photo/tropical-rainforest-beauty-nature-sunrise-generated-by-ai_188544-35483.jpg?size=626&ext=jpg&ga=GA1.2.1888065705.1678431942&semt=sph);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.card1 {
+    margin-left:40%;
+    
+   
+}
+h1 {
+    color :rgb(44, 232, 15);
+}
+.card2 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:10%;
+    margin-left:7%;
+    background-image:url();
+}
+ input {
+    color: blueviolet;
+    font-style: italic;
+    width:40%;
+    height:70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    background-color: rgb(163, 223, 157);
+ } 

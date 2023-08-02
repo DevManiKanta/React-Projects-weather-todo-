@@ -1,0 +1,35 @@
+body{
+    
+    align-items:center;
+    justify-content:center;
+    background-image:url(https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.card1 {
+    margin-left:40%;
+    margin-top:20px;
+   
+}
+h1 {
+    color :rgb(44, 246, 14);
+}
+.card2 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:10%;
+    margin-left:7%;
+    background-image:url();
+}
+ input {
+    color: blueviolet;
+    font-style: italic;
+    width:40%;
+    height:70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    background-color: rgb(163, 223, 157);
+ } 
